@@ -22,7 +22,7 @@ The user sends the chat command `/beginning`. The bot sends the chat the first p
 
 ### Accordingly, when interacting with the message-book, the user can:
 
-- __Press the "Forward" button and then the bot will load the next page of the book if the current page is not the last page. 
+- __Press__ the "Forward" button and then the bot will load the next page of the book if the current page is not the last page. 
 The current page number on the button will increase by 1. And if the current page is the last page in the book, nothing will change.
 
 - __Press__ on the button with the current page number and then the bot will save that page to bookmarks, letting the user know.
